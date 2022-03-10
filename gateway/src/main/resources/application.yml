@@ -14,11 +14,10 @@ spring:
               - "localhost://*"
               - "localhost://8080"
               - "localhost://8082"
-              - "http://localhost:8082"
               - "http://*.guisu.website"
               - "https://*.guisu.website"
-              - "http://8.131.225.65"
-              - "https://8.131.225.65"
+              - "http://124.223.171.21"
+              - "https://124.223.171.21"
             allowedMethods:
               - GET
                 POST

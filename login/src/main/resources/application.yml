@@ -34,7 +34,6 @@ sa-token:
   # cookie:
   # 配置Cookie作用域
   # domain: stp.com
-
   # ------- SSO-模式二相关配置
   sso:
     # Ticket有效期 (单位: 秒)，默认五分钟
